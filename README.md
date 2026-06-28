@@ -1,5 +1,7 @@
 # PhoenixGives
 
+Click: https://geetabhimsenmaharana.github.io/project_phoenixgives/
+
 A small, personal initiative: every Saturday, give something away — clothes, food, books, or anything still useful — wrapped with a handwritten note and offered freely.
 
 This repository contains the source code for the PhoenixGives website.
@@ -31,7 +33,7 @@ This is a static site — no build tools, no dependencies. To make changes:
 
 ### Updating the Instagram link
 
-Search for `instagram.com` in each HTML file and replace it with your real Instagram profile URL.
+Search for `https://www.instagram.com/phoenixgives/`
 
 ### Adding a new story
 
