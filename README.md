@@ -1,6 +1,6 @@
 # PhoenixGives
 
-A small, personal initiative: every Saturday, give something away — clothes, food, books, or anything still useful — wrapped with a handwritten note and offered freely, with no strings attached.
+A small, personal initiative: every Saturday, give something away — clothes, food, books, or anything still useful — wrapped with a handwritten note and offered freely.
 
 This repository contains the source code for the PhoenixGives website.
 
